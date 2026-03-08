@@ -1,0 +1,342 @@
+
+
+====================================================================================================
+
+Coremuneration et budget contributif — Movilab
+
+====================================================================================================
+
+afficher[Ampoule.png]CETTE PAGE EST UNE DOCUMENTATION EN GUIDE PRATIQUE.
+
+Vous pouvez partager vos connaissances en l’améliorant (comment ?).
+axée sur les buts, montre comment résoudre un problème spécifique, tout comme une série
+d’étapes.
+
+	* Elle est semblable à l’acte de cultiver des légumes ou à une recette dans un livre de
+cuisine.
+
+ 	* RÉPERTOIRE : Toutes les pages de ce wiki de TYPE GUIDE PRATIQUE
+
+	* SUPPORT : Le portail dédié à la documentation et aux codes sources
+
+	* 1 Un budget contributif, c’est quoi ? 
+ 	* 2 Pourquoi c’est utile ? 
+ 	* 3 De où ça vient ?
+ 	* 4 Le budget contributif on en est où ?
+
+	* 5 Comment créé-t-on un budget contributif ?  
+
+	* 5.1 Étape 0 :  Partager un Document
+ 	* 5.2 Étape 1 : Disposer d’un budget
+ 	* 5.3 Étape 2 : Se mettre d’accord sur un tarif horaire maximum.
+ 	* 5.4 Étape 3 : Lister les noms des contributeurs
+ 	* 5.5 Étape 4 : Contribuer “à la carte”
+ 	* 5.6 Étape 5 : Facturer ses contributions
+ 	* 5.7 Étape 6 : Veiller au suivi des dépenses 
+
+ 	* 6 Exemples d'applications de la corémunération.
+ 	* 7 Corémunération avec des structures, personnes morales.
+ 	* 8 Rémunération dirigeant dans une association
+ 	* 9 Autres ressources et pages liées
+
+	* Définition : 
+
+Un budget contributif est un outil qui permet à un collectif d'organiser la rémunération des
+membres de manière transparente en contexte où le collectif a conscience du budget octroyé et
+souhaite le partager collectivement, sans rapport de subordination.
+
+Le collectif dispose d’un budget et va permettre à ses membres de se rétribuer dans ce budget
+pour le travail qu'ils effectuent. Chaque membre peut demander une rémunération à hauteur de ce
+qu’il estime juste, et ce en l’affichant en toute transparence au reste du collectif, qui peut
+en cas d’abus ou d'incompréhension, remettre en question sa demande. En laissant la personne
+décider sa rétribution, cette dernière va pouvoir utiliser de nombreux critères propres à sa
+situation dans le projet collectif :
+
+	* L'action effectuée (temps et énergie investis, pénibilité de l'action, compétences requises
+etc.) ;
+ 	* L'utilisation directe ou non de ce à quoi la personne contribue (pour beaucoup, contribuer à
+Wikipedia sans rétribution parait évident du fait d'avoir aussi accès librement à Wikipedia) ;
+ 	* La charge mentale plus ou moins élevée de la personne pour l'action (et notamment l'engagement
+au préalable, ou pas, dans le rôle ou l'action menée) ;
+ 	* Les besoins financiers de la personne qui réalise l'action ;
+ 	* L’enveloppe globale liée au projet, le nombre de contributeurs qui y participent et la
+fourchette journalière ou horaire indicative que le groupe s'est donné ( si il y en a une ) ;
+ 	* La part de formation personnelle dans les actions menées ;
+ 	* Et d’autres critères personnels (sentiment de légitimité, motivation à voir aboutir le
+projet, envie de donner de son temps à un projet, rétributions symboliques par ailleurs, etc.) ;
+
+Au regard de ces critères très divers mais tous impactant dans un projet collectif, seule la
+personne concernée peut réussir à évaluer sa rétribution et il y a une part subjective
+importante dans la rétribution.
+
+La rémunération se fait à posteriori ; nous "donnons" d'abord le meilleur de nous même, puis
+"nous nous donnons" une rétribution.
+
+Nous appelons cette modalité "rétribution libre" ou "rémunération libre".
+
+Si vous souhaitez rendre accessible des budgets disponibles pour réaliser un travail dans le cadre
+d'une commande ou dans un cadre avec objectifs et un calendrier, le budget contributif n'est plus
+adapté. Vous pouvez basculé sur une approche de budget ouvert.
+
+	* Ce budget contributif permet aux personnes de se partager une enveloppe budgétaire sans avoir à
+planifier la répartition en amont. Il s'agit d'une troisième voie salutaire entre la tentation de
+concentrer les ressources financière sur un poste salarié qui deviendra omniprésent et parfois
+omnipotent et la tentation de rester dans un fonctionnement sans rémunération qui risque
+d'épuiser les membres ou de ne jamais bénéficier pleinement de l'énergie disponible. Ce modèle
+favorise le maintien d'un investissement et de la contribution sur le long terme pour certaines
+personnes, voir pour développer un nouveau modèle, le "contributeur salarié" (le salariat passe
+dès lors par une structure de type CAE, Coopérative d'Activite et d'Emploi qui permet d'agréger
+les différents revenus contributifs sous un CDI).
+
+	* Ce budget contributif permet d'incarner des principes collaboratifs et d'horizontalité
+managériale. On fait l'économie d'une gestion des finances et des rémunérations par un membre en
+particulier, un chef ou une cheffe qui disposerait d'un pouvoir de répartition de valeur. Le fait
+que chaque membre peut à tout moment non seulement voir ce que les autres membres prélèvent, mais
+également s’y opposer, en fait un outil démocratique intéressant. 
+ 	* Ou ouvrant la rétribution à un réseau de contributeur ouvert, on facilite l'implication de
+personnes qui auraient pu souhaiter créer un projet concurrent pour eux même pouvoir vivre de
+leurs actions. Pourquoi recréer un projet si l'on peut aussi se rétribuer dans celui déjà
+développé par d'autres ?
+
+C'est une longue histoire, mais un certain Benjamin Mako Hill disait "_Il est plus facile pour un
+projet de logiciel libre à succès de recevoir de l'argent que de décider de comment le
+redistribuer_".
+
+Cette remarque s'applique aussi aux communs ou aux projets autogérés. Des endroits où la
+contribution est assez libre, où elle se veut ouverte à tous, sur ce que chacun souhaite fournir
+comme effort au moment voulu. Des espaces où rémunérer les personnes peut vite devenir un sujet
+épineux. Avez-vous déjà envisager que l'on puisse rémunérer les contributeurs à Wikipédia ?
+Ce mode de production et de travail très particulier mérite un mode de rémunération lui aussi
+particulier.
+
+Un autre, pour justifier un refus de donner une subvention, nous disait aussi "_Si je vous donne de
+l'argent dans votre projet cogéré, votre collectif va rentrer en conflit et disparaître_". Celui
+préférait dès lors financer une seule personne dans un projet non collectif et non ouvert.
+
+D'autres, au moment où de l'argent arrive enfin dans un projet qui a du succès, préféraient
+payer des prestataires extérieurs novices sur le projet à 1000€ la journée plutôt que de
+rémunérer les centaines de contributeurs actifs depuis 10 ans, motivés pourtant pour continuer à
+alimenter le projet. Ils disaient : _"Si vous vous payez, il y a conflit d'intérêt, car vous
+participez à la gouvernance du projet à but non lucratif. Il faut payer des gens qui ne
+participent pas au projet et sa gouvernance"._
+
+Il a donc fallu trouver des solutions pour résoudre ces principes de plus en plus inacceptables à
+l'ère des communs comme Wikipédia ou le logiciel libre, véritables entreprises créatrices de
+valeur pour tous.
+
+Le budget contributif intéresse de nombreuses personnes et a été appliqué dans de nombreux
+endroits. Des difficultés d'usage ou de compréhensions émergent et questionnent cet objet. Un
+espace se propose de repenser le positionnement du budget contributif dans nos organisations :
+Budgets contributifs - Thématiques à explorer
+
+[Coremuneration.png]
+
+ÉTAPE 0 :  PARTAGER UN DOCUMENT[MODIFIER | MODIFIER LE WIKICODE]
+
+Un logiciel est en phase de test pour faciliter les déclarations de contributions et les demandes
+de rétributions : https://loot-project.gitlab.io/userguide/
+
+En attendant, nous utilisons encore des tableaux partagés en ligne : Voici un modèle à adapter
+
+ÉTAPE 1 : DISPOSER D’UN BUDGET[MODIFIER | MODIFIER LE WIKICODE]
+
+Pour bien commencer, mieux vaut disposer d’un budget, qui sera l’enveloppe dans laquelle les
+contributeurs vont prélever selon leurs interventions. 
+
+Par souci de transparence, il faut donner la provenance de ce budget ; les montants et l'origine
+des financements récoltés. 
+
+Il faut préparer une case “Budget restant” pour évaluer en temps réel l’évolution du
+budget. 
+
+ÉTAPE 2 : SE METTRE D’ACCORD SUR UN TARIF HORAIRE MAXIMUM.[MODIFIER | MODIFIER LE WIKICODE]
+
+Pour éviter que certains se sous-payent et d’autres se sur-payent, il est bon d’avoir un
+référentiel plébiscité par le collectif. 
+
+Nous définissons néanmoins notre rémunération librement selon le nombre d'heures passées, nos
+besoins financiers, nos compétences, la difficulté ou l'exigence de la réalisation et
+l’intérêt individuel de la réalisation. Il faut prendre en compte l'ensemble du temps passé (
+ce que l'on ne fait pas toujours en prestation). Et bien sûr libre à chacun de suivre le taux
+horaire indiqué ou de se rétribuer plus, moins ou même pas du tout. Par exemple, si notre
+contribution au collectif apporte un intérêt individuel fort, il peut être justifié de se
+rémunérer moins que si ce n’était pas le cas. Par exemple, si j'améliore mon tiers lieu que
+j'utilise tous les jours, je bénéficie donc directement de l'amélioration. C’est ce qui
+explique d’ailleurs d’un projet comme Wikipedia n’a pas besoin de rémunérer ses
+contributeurs pour fonctionner. 
+
+Ce tarif horaire maximum ou de référence est complexe à déterminer mais peut-être creusé par
+rapport aux coûts d'un salarié au régime général.[1]
+
+C'est au fil du temps que les choses vont s'ajuster et que les personnes vont trouver leur
+équilibre. Au départ, certains osent pas, d'autres osent trop. En discutant ensemble et en faisant
+des points réguliers, le collectif va apprendre à se positionner et chacun trouvera son
+équilibre. Attention à ne pas reproduire des écarts hérités des dominations sociales et
+culturelles ; par exemple, ce n'est pas parce que les femmes trouvent un équilibre satisfaisant
+plus bas que celui des hommes que votre collectif doit tolérer cette situation. Une fois bien mis
+en place, la gestion du budget devient moins chronophage pour le collectif et contribue à apaiser
+certaines tensions (par exemple, chez les bénévoles, cela permet d'arrêter de reprocher aux
+autres de ne pas faire les choses, si l'on est frustré, on peut au moins compenser avec plus de
+rétribution financière).
+
+ÉTAPE 3 : LISTER LES NOMS DES CONTRIBUTEURS[MODIFIER | MODIFIER LE WIKICODE]
+
+Ils sont le cœur du budget contributif, ils doivent tous avoir un accès modifiable au document.
+
+Assurez-vous que l'ensemble des contributeurs et contributrices potentielles à vos projets
+disposent des informations nécessaires.
+
+Dans la notice de votre outil n'oubliez pas d'indiquer si les demandes de rétributions sont
+déclarées Hors Taxes ou TTC.
+
+ÉTAPE 4 : CONTRIBUER “À LA CARTE”[MODIFIER | MODIFIER LE WIKICODE]
+
+Dans la “partie contribution”, on dispose d’un tableau hebdomadaire (on le rythme une colonne
+par dimanche, pour permettre aux contributeurs de travailler le week-end) et annuel. 
+
+Le contributeur va alors pouvoir indiquer les montants qu’il prélève, et les justifier en
+insérant une “remarque” sur la cellule correspondante. 
+
+Pour ce faire, pas besoin d’écrire un roman, mais mieux vaut être précis. 
+
+Astuce : pour chaque contribution, vous pouvez indiquer la somme prélevée correspondante et au
+choix, indiquer :
+
+	* le jour 
+ 	* le temps passé approximatif (possible de le laisser facultatif)
+ 	* l’activité horaire￼ et/ou l menée à bien
+
+N’oubliez pas que tous les autres membres voient et peuvent s’opposer à l’évaluation que
+vous faites de votre contribution !
+
+Avec cette partie contribution, on peut ainsi suivre les dépenses hebdomadaires, voire limiter son
+budget hebdomadaire en divisant son enveloppe par 52 semaines. 
+
+ÉTAPE 5 : FACTURER SES CONTRIBUTIONS[MODIFIER | MODIFIER LE WIKICODE]
+
+A force de contribuer, un certain montant s’accumule dans la “partie facturation”. Ce montant
+reste virtuel, il faut le récupérer en émettant une facture à la structure porteuse du
+dispositif. 
+
+On indique alors dans la cellule “1ere facture” le montant qu’on a facturé, et on ajoute en
+“remarque” la date d’envoi de cette facture à la structure porteuse. 
+
+Astuce : insérer dans le document un lien ou un e-mail pour faciliter l’envoi de cette facture
+par le contributeur. 
+
+Rien ne nous oblige à facturer le montant total de la contribution accumulée, mais il est
+préférable de facturer rond, c’est-à-dire en ne coupant pas les mois. 
+
+Par ex : je facture du 1er juin au 30 septembre, et je l’indique sur ma facture à la structure
+porteuse. 
+
+En général, on émet une facture à partir du moment où on a accumulé une somme assez
+conséquente (mais à moins de 5000€, car les virements des comptes courants ne dépassent pas
+5000€ par jour, ça va embêter le comptable de votre structure porteuse si c’est une
+association).
+
+Pensez à facturer avant la fin de l’année comptable !!!
+
+ÉTAPE 6 : VEILLER AU SUIVI DES DÉPENSES [MODIFIER | MODIFIER LE WIKICODE]
+
+Avec ce budget contributif, le coordinateur ou le comptable de votre dispositif pourra suivre les
+dépenses en temps réel pour ajuster au mieux les activités à l’enveloppe restante (“dois-je
+aller chercher davantage de subventions ?”)
+
+En y insérant un tableau de suivi des notes de frais, ainsi qu’un tableau des dépenses directes
+par carte bleue depuis le compte-courant du dispositif, le budget contributif peut devenir un outil
+incontournable pour gérer efficacement son dispositif … à condition d’avoir bien veillé à ce
+que tous les contributeurs remplissent régulièrement le tableau !
+
+Attention, dans les règles, vous pouvez par exemple établir le fait que tout le monde puisse
+émettre un droit de blocage sur une rémunération, pour limiter une dérive par exemple.
+
+	* 
+
+Exemple d'application du principe de corémunération
+
+ 	* 
+
+Exemple d'application du principe de corémunération
+
+ 	* 
+
+Exemple d'application du principe de corémunération
+
+ 	* 
+
+Présentation VIVRE DES COMMUNS
+
+_Consultez la page dédiée à ce sujet (problèmes > solutions) :_ Animer un budget contributif
+avec des structures.
+
+Ces contenus sont produits par des personnes qui travaillent entre individus. Qu'ils soient
+indépendants ou salariés dans des structures, nous travaillons avec des personnes. Cela permet de
+discuter du niveau d'engagement, d'avoir confiance (ou pas) et de se positionner en terme de
+responsabilité vis à vis des projets.
+
+Cela n'empêche en rien une structure de facturer ou de recevoir de l'argent via un budget
+contributif si un.e salarié.e a contribuer au projet.
+
+Les problématiques spécifiques qui émergent lorsque l'on ouvre un budget contributif à des
+structures :
+
+	* Méfiance des dirigeants vis à vis de l'implication rétribuée d'un salarié ou d'un
+administrateur dans un autre projet. Des inquiétudes qui peuvent être liées à un manque de
+connaissance du dispositif, à un manque de confiance dans les structures qui animent le budget
+contributif ou à la transparence que cela implique.
+ 	* Déresponsabilisation des contributeurices. Ma structure s'est engagée, pas moi.
+ 	* Déresponsabilisation de la structure (du conseil d'admin, des gérants, etc.). Le ou la
+salariée s'est engagée mais ce n'était pas clair.
+ 	* Besoin de planifier, chiffrer, contrôler. La structure souhaite savoir si le ou la salariée
+engagée va travailler 3 ou 10 jours dans les prochains mois et si cela va être rétribué
+90€HT/jour ou 450€HT/jour.
+
+https://www.service-public.fr/associations/vosdroits/F1927
+
+Pour qu'un dirigeant puisse être rémunéré, cela doit être prévu par les statuts de
+l'association et voté en assemblée générale. Toute association peut décider de rémunérer tout
+ou partie de ses dirigeants. La rémunération de chaque dirigeant ne doit pas dépasser les ¾
+du Smic, soit 1 154,56 € brut par mois. (La facturation est considérée comme une forme de
+rémunération, le montant précisé ci-contre est à transformer en montant HT).
+https://www.service-public.fr/associations/vosdroits/F1927
+
+VOICI UN ARTICLE AJOUTÉ DANS LES STATUTS DE CERTAINES ASSO LE PRATIQUANT :
+
+"ARTICLE 8 bis : RÉTRIBUTIONS CONTRIBUTIVES Sans remettre en cause le caractère désintéressé
+de l’association, les membres contributeurs peuvent bénéficier de rétributions en tant que
+dirigeants. Dans les limites légales, l’association peut également faire appel à ses membres en
+tant que prestataires ou dans le cadre d’un contrat de travail salarié. Ces différents aspects
+seront encadrés par le CA"
+
+	* Travail de documentation "le petit manuel du budget contributif" par Victor Ecrement
+ 	* Explication dessinée et synthétisées dans le livret "vivre des communs"
+ 	* Modèle de tableau utilisé (sans pôles)
+ 	* Modèle de tableau (avec pôles)
+ 	* Note pour s'aider sur les choix entre budget contributif ou salariat/prestation
+ 	* Débat sur le forum tiers lieux
+ 	* Le budget contributif expliqué dans un KPA
+ 	* Retour sur l’expérience Gratipay
+ 	* Corémunération au sein d'un projet association
+ 	* Implémenter le modèle dans un collectif : pour faire comprendre le fonctionnement ici un jeu
+de la co rémunération
+https://docs.google.com/presentation/d/1I0Pq-M7gvbV5vCB7jmaktZ05yU4BGICc/edit#slide=id.p15
+ 	* Problématiques de recherche sur les modèles contributifs et les nouvelles formes de
+structuration du travail dans les écosystème collaboratifs.
+ 	* Trouver du travail en tant que contributeur-trice, travailler dans les écosystèmes
+contributifs
+ 	* Canal d'échanges entre les tiers lieux sur la mise en place des pratiques contributives et de
+la co rémunération
+https://forum.tiers-lieux.org/t/experimentations-des-modeles-contributifs-dans-les-lieux-et-les-reseaux-de-lieux/2917/2
+
+	* ↑ Ainsi, nous pouvons réfléchir à ce que nous coûterait un salarié avec l'ensemble des
+cotisations et imaginer comment pourrait être partagé ce revenu entre plusieurs personnes. Pour
+donner à titre indicatif un taux horaire pas très éloigné de celui d'un salarié. Par exemple,
+une moyenne de 22,5 € par heure correspond à une rémunération net de 1760€ ( si 35h par
+semaine et avec prise en compte de la mutuelle/prévoyance et congés payés et jours fériés, soit
+134h/mois). 13€ correspond à un SMIC, du fait des aides Fillon, CICE et autre, les réductions de
+cotisations étant très fortes. Il faut que la rétribution intègre le coût de gestion
+administratif et comptable, les frais, la possible TVA payée par le contributeur selon son statut,
+la précarité du modèle si toutefois les espaces de contributions ne sont pas abondants dans
+l'environnement proche....
+
