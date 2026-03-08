@@ -72,21 +72,75 @@ La remuneration d'un titre participatif comprend deux composantes :
 
 **Preconisation** : utiliser le **chiffre d'affaires HT du projet** comme indicateur. C'est l'indicateur le plus simple, le plus objectif et le moins manipulable. Il ne necessite pas de comptabilite analytique complexe — une ligne de facturation identifiable suffit.
 
-### 1.6 — Configuration de remboursement recommandee
+### 1.6 — Remboursement : ce que dit exactement la loi
 
-Les titres participatifs sont **perpetuels par defaut** (la loi dit « non remboursables »). Le contrat d'emission peut prevoir une clause de rachat optionnel a l'initiative de la cooperative apres le delai legal de 7 ans.
+L'article L.228-36 du Code de commerce dispose :
 
-Trois configurations possibles :
+> *« Ces titres ne sont remboursables **qu'en cas de** liquidation de la societe ou, **a son initiative**, a l'expiration d'un delai qui ne peut etre inferieur a sept ans et dans les conditions prevues au contrat d'emission. »*
+
+Autrement dit : le souscripteur ne peut **jamais** exiger le remboursement. Seules deux situations le permettent — la liquidation de la societe, ou la decision volontaire de la cooperative apres 7 ans. La cooperative n'est jamais obligee de rembourser.
+
+Trois configurations possibles dans le contrat d'emission :
 
 | Configuration | Clause dans le contrat | Effet |
 |---|---|---|
 | Perpetuel pur | Pas de clause de rachat | La cooperative ne rembourse jamais (sauf liquidation). L'investisseur touche la remuneration annuelle uniquement. |
-| **Rachat optionnel** (recommande) | « L'emetteur pourra proceder au rachat des titres a compter de la 7e annee » | La cooperative **peut** rembourser quand elle le decide apres 7 ans, mais **n'y est jamais obligee**. |
-| Rachat optionnel avec step-up | Idem + augmentation du taux fixe apres X annees | Incite la cooperative a rembourser a terme (la charge fixe augmente), sans l'y obliger. |
+| **Rachat optionnel** (recommande) | « L'emetteur pourra proceder au rachat des titres a compter de la 8e annee » | La cooperative **peut** rembourser quand elle le decide apres 7 ans, mais **n'y est jamais obligee**. |
+| **Rachat optionnel avec step-up** (recommande pour les montants importants) | Idem + augmentation du taux fixe apres X annees | Incite economiquement la cooperative a rembourser a terme (la charge fixe augmente), sans l'y obliger. |
 
-**Preconisation** : le **rachat optionnel standard**. Il offre une porte de sortie propre a la cooperative si le projet reussit, tout en la protegeant si le projet echoue. Le perpetuel pur est trop dissuasif pour les investisseurs ESS ; le step-up est inutilement complexe a ce stade.
+**Preconisation** : le **rachat optionnel**, avec step-up pour les emissions significatives (> 10 000 euros). Le perpetuel pur est trop dissuasif pour les investisseurs ESS et les collectivites.
 
-### 1.7 — Exemple concret : emission pour le projet OpenBadge
+### 1.7 — Rassurer les financeurs sans engager la cooperative
+
+Les investisseurs ESS et les collectivites peuvent etre reticents face a un instrument ou le remboursement n'est jamais garanti. Trois leviers legaux permettent de les rassurer **sans creer d'obligation de remboursement** :
+
+#### Ce qu'il ne faut JAMAIS faire
+
+Une clause du type *« la cooperative s'engage a rembourser si les benefices le permettent »* transformerait la faculte de rachat (discretionnaire) en **obligation conditionnelle**. Consequences :
+
+- **Requalification comptable** du titre en dette (au lieu de quasi-fonds propres) — on perd tout l'interet du mecanisme
+- Le titre ne serait potentiellement **plus un TP au sens legal** mais une obligation a terme conditionnel
+- Risque de litige si la cooperative ne rembourse pas malgre des benefices
+
+#### Levier 1 — Clause d'intention (pas d'engagement)
+
+Redaction type :
+
+> *« La Societe envisage de proceder au rachat des titres a compter de la 8e annee si sa situation financiere le permet. Cette mention constitue une declaration d'intention et ne saurait etre interpretee comme un engagement de la Societe. La decision de rachat releve de la seule initiative de la Societe conformement a l'article L.228-36 du Code de commerce. »*
+
+Cela rassure psychologiquement sans creer d'obligation juridique. C'est la pratique courante des cooperatives emettrices.
+
+#### Levier 2 — Step-up (incitation economique au rachat)
+
+Augmenter la partie fixe apres un certain nombre d'annees. Exemple :
+
+- Annees 1-7 : fixe 1%
+- Annees 8-10 : fixe 2%
+- Au-dela de 10 ans : fixe 3%
+
+La cooperative a **interet** a racheter apres 7 ans parce que le cout du titre augmente. L'investisseur en deduit : « ils vont vouloir racheter, ca leur coute de plus en plus cher de ne pas le faire ». C'est le modele utilise par SCOPINVEST (CG SCOP), qui prevoit +50 bp/an apres la 8e annee.
+
+#### Levier 3 — Complement participatif au rachat
+
+Au moment ou la cooperative **decide** de racheter, un bonus est verse en plus du nominal, indexe sur la performance du projet. Exemple :
+
+> *« En cas de rachat a l'initiative de la Societe, le prix de rachat est egal a la valeur nominale du titre, majore d'un complement participatif egal a X% du chiffre d'affaires cumule de l'activite de reference sur la duree de detention, plafonne a 50% de la valeur nominale. »*
+
+Cela donne au souscripteur un incentive supplementaire : non seulement il a touche sa remuneration annuelle, mais si le projet reussit et que la cooperative rachete, il recoit un bonus.
+
+#### Combinaison recommandee
+
+Pour une emission significative (collectivite, labo, structure ESS), combiner les trois :
+
+| Element | Detail |
+|---|---|
+| Clause d'intention | « La Societe envisage le rachat des que sa situation financiere le permet » |
+| Step-up | Fixe 1% annees 1-7, puis 2% au-dela |
+| Complement au rachat | X% du CA cumule du projet, plafonne a 50% du nominal |
+
+L'investisseur entend : « je touche un coupon chaque annee, si le projet marche je gagne plus, la cooperative a interet a me racheter apres 7 ans, et en plus je touche un bonus au rachat ». La cooperative garde : sa liberte totale, aucune obligation, des quasi-fonds propres au bilan.
+
+### 1.8 — Exemple concret : emission pour le projet OpenBadge
 
 **Hypothese** : une collectivite (Villeurbanne) et deux structures ESS souhaitent investir 15 000 euros dans le developpement du systeme OpenBadge.
 
@@ -120,7 +174,7 @@ Trois configurations possibles :
 - En annee 3 et 4 (succes) : le plafond TMO + 2 points protege la cooperative contre une charge excessive. La cooperative peut envisager le rachat des titres a partir de l'annee 7.
 - Le souscripteur qui a mis 100 euros touche entre 1 et 5 euros par an selon la performance. Ce n'est pas un investissement lucratif — c'est un **investissement de soutien** qui participe a la construction d'un commun. Le profil type est une collectivite ou une structure ESS, pas un investisseur financier.
 
-### 1.8 — Exemple concret : emission pour le moteur d'analyse de texte
+### 1.9 — Exemple concret : emission pour le moteur d'analyse de texte
 
 **Hypothese** : le CNRS/LIRMM et deux laboratoires associes souhaitent investir 30 000 euros dans le developpement du moteur d'analyse syntaxique.
 
@@ -329,6 +383,12 @@ Les CCA sont suivis individuellement en comptabilite (compte 4551 — Associes, 
 5. **Emission successive** : peut-on faire plusieurs emissions distinctes (une par projet) avec des conditions differentes ? Notre comprehension est que oui, chaque emission faisant l'objet d'une deliberation d'AGE distincte.
 
 6. **Fiscalite du souscripteur** : confirmer le regime fiscal applicable aux remunerations percues par les differents types de souscripteurs (personnes physiques, associations, collectivites, etablissements publics).
+
+7. **Clause d'intention vs obligation conditionnelle** : confirmer que la redaction de la clause d'intention (section 1.7, levier 1) ne risque pas d'etre requalifiee en engagement ferme de rachat, ce qui denaturerait le titre participatif.
+
+8. **Complement participatif au rachat** : valider la licite d'un complement indexe sur le CA cumule du projet verse au moment du rachat, et verifier qu'il entre bien dans le plafond TMO + 2 points ou s'il est soumis a un regime distinct.
+
+9. **Step-up** : confirmer qu'une clause d'augmentation progressive du taux fixe est compatible avec le regime des titres participatifs et le plafond TMO + 2 points.
 
 ### 5.2 — Sur les comptes courants d'associe
 
